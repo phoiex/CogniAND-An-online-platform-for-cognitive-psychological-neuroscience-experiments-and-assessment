@@ -22,7 +22,11 @@ A web platform for experiments · assessments · cognitive training · research
 
 **CogniAND** is an online platform for cognitive science, psychology and neuroscience research. It brings **experiment participation, scale-based assessment, cognitive training, research highlights and data collection** together in a single website. Whether you are a researcher publishing experiments, a participant joining online, or running assessments in a clinical/teaching setting, everything runs in the browser — no installation required.
 
+
+
 🔗 **Try it now: [https://cogniand.com](https://cogniand.com)**
+<img width="1509" height="854" alt="截屏2026-06-28 下午2 07 08" src="https://github.com/user-attachments/assets/1ba08d7e-ca44-448a-b2d7-8b98e9c0a143" />
+<img width="1512" height="852" alt="截屏2026-06-28 下午2 07 36" src="https://github.com/user-attachments/assets/b3d59eb6-505f-4a02-886b-b94ee1c86b6d" />
 
 ---
 
