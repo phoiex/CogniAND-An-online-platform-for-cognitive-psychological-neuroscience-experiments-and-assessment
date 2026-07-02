@@ -25,6 +25,10 @@ A web platform for experiments · assessments · cognitive training · research
 
 
 🔗 **Try it now: [https://cogniand.com](https://cogniand.com)**
+
+Conduct various experiments and games on our platform, such as playing an intense and thrilling game of Werewolf against opponents or AI.
+
+<img width="1508" height="829" alt="截屏2026-07-03 上午1 52 32" src="https://github.com/user-attachments/assets/9178f13a-099f-4e45-82ed-7d8c6e820a6a" />
 <img width="1509" height="854" alt="截屏2026-06-28 下午2 07 08" src="https://github.com/user-attachments/assets/1ba08d7e-ca44-448a-b2d7-8b98e9c0a143" />
 <img width="1512" height="852" alt="截屏2026-06-28 下午2 07 36" src="https://github.com/user-attachments/assets/b3d59eb6-505f-4a02-886b-b94ee1c86b6d" />
 
