@@ -23,6 +23,10 @@
 **CogniAND** 是一个面向认知科学、心理学与神经科学研究的在线平台,把**实验参与、量表评估、认知训练、科研资讯与数据采集**整合在一个网站里。无论是研究者发布实验、被试在线参与,还是临床/教学场景下的认知评估,都可以在浏览器中直接完成,无需安装。
 
 🔗 **立即体验:[https://cogniand.com](https://cogniand.com)**
+
+在我们的平台进行各种实验和游戏，比如和对手还有ai来一把紧张刺激的狼人杀
+
+<img width="1508" height="829" alt="截屏2026-07-03 上午1 52 32" src="https://github.com/user-attachments/assets/f608ed67-7ac6-4b65-88a8-80fbda25a900" />
 <img width="1509" height="854" alt="截屏2026-06-28 下午2 07 08" src="https://github.com/user-attachments/assets/ede62976-0e8d-4bcb-9cc9-9c78f6801db0" />
 <img width="1512" height="852" alt="截屏2026-06-28 下午2 07 36" src="https://github.com/user-attachments/assets/2f142591-a0c4-48ab-bb1d-f0ae58401c82" />
 
